@@ -280,9 +280,9 @@ padding: 9px;
     justify-content: center;
     flex-direction: column;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); 
-    width: 68%;
+    width: 75%;
     margin: auto;
-    height: 100vh;
+    height: 120vh;
     padding: 40px;
     margin-top: 25px;
     
@@ -415,5 +415,5 @@ footer{
     color: white;
     text-decoration: none;
     list-style: none;
-    font-size: 19px;
+    font-size: 17px;
 }
