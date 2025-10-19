@@ -199,7 +199,7 @@ margin-top: 3%;
 
 .NotiDestaques h2{
     margin: 10px 9px;
-    font-size: 1.7rem;
+    font-size: 1.9rem;
 }
 
 .tipo{
@@ -295,8 +295,9 @@ padding: 9px;
 } */
 
 .NossosValores h2{
-    margin-bottom: 15px;
-    font-size: 1.7rem;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    font-size: 1.9rem;
 }
 
 .cardsValores{
@@ -344,7 +345,7 @@ padding: 9px;
 }
 
 .proximosEventos h2{
-    font-size: 1.7rem;
+    font-size: 1.9rem;
     margin-bottom: 15px;
 }
 
