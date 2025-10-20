@@ -1,3 +1,20 @@
+let btnAreaAluno = document.getElementById("areaAluno")
+let TodosBtnAzul = [...document.querySelectorAll("#btnAzul")]
+console.log(TodosBtnAzul)
+
+btnAreaAluno.addEventListener("click", function(){
+    alert("Em manutenção!")
+})
+
+TodosBtnAzul.forEach(function(el){
+    console.log(el)
+    el.addEventListener("click", function(elv){
+        alert("Em manutenção...")
+    })
+})
+console.log(TodosBtnAzul)
+
+
 
 window.addEventListener("scroll", ()=>{
     const header = document.querySelector("header")
